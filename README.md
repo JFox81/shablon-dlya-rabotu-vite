@@ -1,1 +1,1 @@
-# shablon-dlya-rabotu-vite
+# shablon-dlya-rabotu
