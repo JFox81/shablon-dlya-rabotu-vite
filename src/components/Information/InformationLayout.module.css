@@ -1,0 +1,27 @@
+.information {
+  text-align: center;
+  padding: 1rem;
+  background-color: white;
+  border-radius: 0.5rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  min-width: 200px;
+}
+
+.message {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: #2c3e50;
+  margin: 0;
+}
+
+.winner {
+  color: #27ae60;
+}
+
+.currentPlayer {
+  color: #3498db;
+}
+
+.draw {
+  color: #f39c12;
+} 
